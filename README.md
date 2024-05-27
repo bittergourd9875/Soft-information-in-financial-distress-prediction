@@ -6,7 +6,7 @@ The project is based on the research work of "the Soft information in financial 
 
 `data/`: data sets.
 
-`main.py`: output the results of the 7 models 20 times and output the results to output.txt.
+`main.py`: output the results of the 7 models 20 times and output the results to `output.txt`.
 
 ## Usage  
   
