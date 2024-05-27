@@ -1,8 +1,5 @@
 # -*- coding: utf -8 -*-
-"""
-作者：贾明
-日期：2022年05月16日
-"""
+
 import os.path
 import random
 import sys
