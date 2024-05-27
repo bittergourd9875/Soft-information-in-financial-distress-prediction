@@ -251,7 +251,7 @@ if __name__ == '__main__':
     # 数据集
     for i in range(1):
         years = 2
-        filename = 'word_frequency_'
+        filename = 'tfidf_'
         if "Word2Vec" in filename:
             spl = -201
         elif "bert" in filename:
