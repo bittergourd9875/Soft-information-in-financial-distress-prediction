@@ -11,7 +11,7 @@ sklearn.py: output the results of the 7 models 20 times and output the results t
   
 To use the code, follow these instructions:  
   
-1. Prepare your data in the required format and place it in the `data/` directory.  
-2. Run the main script: `python main.py` 
+1. Place the data in the `data/` directory.  
+2. Run the main script: `python main.py`.
 
 
